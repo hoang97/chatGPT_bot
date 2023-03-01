@@ -179,6 +179,13 @@ body {
 	text-align: center;
 }
 
+.app_button_2 {
+	margin-right: 5px;
+}
+.icon {
+    margin-right: 3px
+}
+
 /* faq section | right side */
 /* ---------------------------------------------------------------------- */
 
@@ -207,4 +214,20 @@ body {
 	-ms-transform: rotate(90deg);
 	-o-transform: rotate(90deg);
 	transform: rotate(90deg);
+}
+
+#mic_error {
+    max-height: 0;
+    overflow: hidden;
+    visibility: hidden;
+    -webkit-transition: all 1s ease-in-out;
+    -moz-transition: all 1s ease-in-out;
+    -o-transition: all 1s ease-in-out;
+    transition: all 1s ease-in-out;
+}
+
+#mic_error.show {
+    visibility: visible;
+    max-height: 7em;
+    overflow: auto;
 }

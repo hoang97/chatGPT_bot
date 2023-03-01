@@ -16,6 +16,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300|Open+Sans:300|Oxygen|Material+Icons"
 		rel="stylesheet">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
 
 	<!-- custom css -->
 	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='main.css') }}">
@@ -23,7 +24,6 @@
 </head>
 
 <body>
-
 	<div class="container">
 
 		<div class="row padded_row">
@@ -41,9 +41,15 @@
 					<ul class="messages"></ul>
 
 					<!-- input -->
-					<div class="bottom_wrapper">
+					<div class="bottom_wrapper mb-3">
 						<input id="msg_input" placeholder="Say Hi to begin chat..." />
-						<div id="send_button" class="app_button_1">Send</div>
+						<button id="micBtn"  class="btn btn-danger app_button_2">
+                            <i class="fa-solid fa-microphone"></i>
+                        </button>
+						<button id="send_button" class="btn btn-success">
+                            <i class="fa-solid fa-paper-plane icon"></i>
+                            Send
+                        </button>
 					</div>
 
 				</div>
@@ -59,19 +65,32 @@
 					</div>
 
 					<!-- help container -->
-					<div class="panel-group" id="accordion">
+					<div class="panel-group">
 
 						<!-- help - 1 -->
-						<div class="panel panel-default">
+						<div class="panel panel-info">
 							<div class="panel-heading">
-								<h4 class="panel-title">
-									<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion"
-										href="#collapse1">Attention</a>
+								<h4 class="panel-title" data-toggle="collapse" data-target="#collapse1">
+									Attention
 								</h4>
 							</div>
 							<div id="collapse1" class="panel-collapse collapse in">
 								<div class="panel-body">
 									Sally can speak many different languages.
+								</div>
+							</div>
+						</div>
+
+						<!-- Mic error -->
+						<div id="mic_error" class="panel panel-danger mic-error">
+							<div class="panel-heading">
+								<h4 class="panel-title" data-toggle="collapse" data-target="#collapse2">
+									Mic error
+								</h4>
+							</div>
+							<div id="collapse2" class="panel-collapse collapse in">
+								<div class="panel-body">
+									Sorry, our bot can't hear you.
 								</div>
 							</div>
 						</div>
