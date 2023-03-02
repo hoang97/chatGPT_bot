@@ -1,7 +1,7 @@
 import os
 
 import openai
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, url_for, send_from_directory
 
 app = Flask(__name__)
 openai.api_key = os.getenv("OPENAI_API_KEY")
@@ -26,6 +26,9 @@ def chat():
         'answer': response
     }
 
+@app.route("/<path:file_path>")
+def files(file_path):
+    return send_from_directory('static', file_path)
 
 @app.route("/", methods=["GET"])
 def index():
