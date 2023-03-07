@@ -2,6 +2,8 @@
 
 This is an example chatbot app base from the OpenAI API [quickstart tutorial](https://beta.openai.com/docs/quickstart). It uses the [Flask](https://flask.palletsprojects.com/en/2.0.x/) web framework. Chatbot can talk and reply to speech from user.
 
+We add new feature that overcomes the weakness of ChatGPT - can't have updated information about weather, date and time with google search function.
+
 ## Setup
 
 1. If you don’t have Python installed, [install it from here](https://www.python.org/downloads/)
@@ -33,7 +35,7 @@ This is an example chatbot app base from the OpenAI API [quickstart tutorial](ht
    $ cp .env.example .env
    ```
 
-7. Add your [API key](https://beta.openai.com/account/api-keys) to the newly created `.env` file
+7. Add your [ChatGPT API key](https://beta.openai.com/account/api-keys) and [Serp API key](https://serpapi.com/manage-api-key) to the newly created `.env` file
 
 8. Addition config for Recognition Language and Synthesis Voices can find in `main.js`
 
