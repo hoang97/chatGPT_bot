@@ -1,10 +1,20 @@
 import os
+import json
 
 import openai
-from flask import Flask, render_template, request, url_for, send_from_directory
+from flask import Flask, render_template, request, send_from_directory
+from serpapi import GoogleSearch
+from dotenv import load_dotenv
 
 app = Flask(__name__)
+load_dotenv()
 openai.api_key = os.getenv("OPENAI_API_KEY")
+serp_api_key = os.getenv("SERP_API_KEY")
+
+headers = {
+    'User-agent':
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63"
+}
 
 @app.route("/chat", methods=["POST"])
 def chat():
@@ -26,6 +36,14 @@ def chat():
         'answer': response
     }
 
+@app.route("/googlesearch", methods=["POST"])
+def search():
+    question = request.form.get("q")
+    return {
+        'question': question,
+        'answer': get_knowledge_graph(question)
+    }
+
 @app.route("/<path:file_path>")
 def files(file_path):
     return send_from_directory('static', file_path)
@@ -35,16 +53,22 @@ def index():
     return render_template("index.html")
 
 
-def generate_prompt(phrase):
-    return """Sally is an assistant that gently respond and give suggestions to user in different language.
+def get_knowledge_graph(text):
+    params = {
+        "api_key": serp_api_key,
+        "engine": "google",
+        "q": text,
+        "hl": "en",
+    }
 
-User: Xin chào bạn, bạn tên là gì?
-Sally: Xin chào bạn, tôi tên là báo Mạnh
-User: How are you today?
-Sally: I'm so strong these days, thanks for asking.
-User: Вы когда-нибудь были в России?
-Sally: Да, последний раз я был там 3 года назад.
-User: {}
+    search = GoogleSearch(params)
+    results = search.get_dict()
+
+    return json.dumps(results.get('answer_box', ""))
+
+
+def generate_prompt(phrase):
+    return """{}
 Sally:""".format(
         phrase.capitalize()
     )

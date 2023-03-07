@@ -1,0 +1,475 @@
+{
+    "search_metadata": {
+        "id": "64073b63b7b1cc404678634c",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/3132acf9f24e7c87/64073b63b7b1cc404678634c.json",
+        "created_at": "2023-03-07 13:25:55 UTC",
+        "processed_at": "2023-03-07 13:25:55 UTC",
+        "google_url": "https://www.google.com/search?q=what%27s+the+weather+in+saint+petersburg+russia&oq=what%27s+the+weather+in+saint+petersburg+russia&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/3132acf9f24e7c87/64073b63b7b1cc404678634c.html",
+        "total_time_taken": 1.58
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "what'the weather in saint petersburg russia",
+        "google_domain": "google.com",
+        "hl": "en",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "what'the weather in saint petersburg russia",
+        "total_results": 10500000,
+        "time_taken_displayed": 0.41,
+        "menu_items": [
+            {
+                "position": 1,
+                "title": "All"
+            },
+            {
+                "position": 2,
+                "title": "News",
+                "link": "https://www.google.com/search?q=what%27s+the+weather+in+saint+petersburg+russia&ucbcb=1&source=lnms&tbm=nws&sa=X&ved=2ahUKEwiRhPbP9cn9AhVMmWoFHQJmA2oQ_AUoAXoECAEQAw",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&q=what%27s+the+weather+in+saint+petersburg+russia&tbm=nws"
+            },
+            {
+                "position": 3,
+                "title": "Images",
+                "link": "https://www.google.com/search?q=what%27s+the+weather+in+saint+petersburg+russia&ucbcb=1&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiRhPbP9cn9AhVMmWoFHQJmA2oQ_AUoAnoECAEQBA",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&q=what%27s+the+weather+in+saint+petersburg+russia&tbm=isch"
+            },
+            {
+                "position": 4,
+                "title": "Shopping",
+                "link": "https://www.google.com/search?q=what%27s+the+weather+in+saint+petersburg+russia&ucbcb=1&source=lnms&tbm=shop&sa=X&ved=2ahUKEwiRhPbP9cn9AhVMmWoFHQJmA2oQ_AUoA3oECAEQBQ",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&q=what%27s+the+weather+in+saint+petersburg+russia&tbm=shop"
+            },
+            {
+                "position": 5,
+                "title": "Videos",
+                "link": "https://www.google.com/search?q=what%27s+the+weather+in+saint+petersburg+russia&ucbcb=1&source=lnms&tbm=vid&sa=X&ved=2ahUKEwiRhPbP9cn9AhVMmWoFHQJmA2oQ_AUoBHoECAEQBg",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&q=what%27s+the+weather+in+saint+petersburg+russia&tbm=vid"
+            }
+        ]
+    },
+    "related_questions": [
+        {
+            "question": "What is the coldest month in St. Petersburg Russia?",
+            "snippet": "January and February are considered to be the coldest months in St. Petersburg. On average, winter temperatures range from -8 to -10.3 °.",
+            "title": "January",
+            "link": "https://mostpetersburg.com/weather",
+            "displayed_link": "https://mostpetersburg.com › weather",
+            "thumbnail": "https://serpapi.com/searches/64073b63b7b1cc404678634c/images/b68477030c035906c3ee0648013b41059d1bdb577fdef52b9c196ab5fee8c7b1.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wU2JrTm5XRU00VlUxUVJtWnBObGhDZEdGeGJtUk1Wbmd4ZUV0WExXMXplRmxCZEhsamVYcDBSaTF2WVhWQmJHVkhOWGs1Um5CWWFEWllSemt6WW5ab2VsOXBjMVpERWhkYVJITklXa3BJUTBNNGVYbHhkSE5RWjNONVRqQkJXUm9pUVVaZk5rMUJUbFpuVFhSc01WcENlVzlwVGpWMFRFaElTV2RoWW1SWFUwUnRkdyIsImZjdiI6IjMiLCJlaSI6IlpEc0haSkhDQzh5eXF0c1Bnc3lOMEFZIiwicWMiOiJDaTEzYUdGMEozTWdkR2hsSUhkbFlYUm9aWElnYVc0Z2MyRnBiblFnY0dWMFpYSnpZblZ5WnlCeWRYTnphV0VRQUgxbk5nRV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGNvbGRlc3QgbW9udGggaW4gU3QuIFBldGVyc2J1cmcgUnVzc2lhPyIsImxrIjoiR2pGM2FHRjBJR2x6SUhSb1pTQmpiMnhrWlhOMElHMXZiblJvSUdsdUlITjBJSEJsZEdWeWMySjFjbWNnY25WemMybGgiLCJicyI6ImMtT3k0RElPejBnc1VjZ3NWaWpKU0ZWSXpzOUpTUzB1VWNqTnp5dkpVTWpNVXdndTBWTUlTQzFKTFNwT0tpMUtWd2dxTFM3T1RMU1hlTzdGNWNSbGk2d3pDYVN0SkRNM1ZTRV9UYUV5TmJGSW9TUmZJVDBmUk9Jd1l6TTdsekdYbmtkLU9kaFdoWlQ4MUdLRnpCS0Y5TlFTUEJiMzIzUHBjMmw1Rm1PWFJfRkRjbVpKcGIzRWFnMEJSZ0EiLCJpZCI6ImZjXzIifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wU2JrTm5XRU00VlUxUVJtWnBObGhDZEdGeGJtUk1Wbmd4ZUV0WExXMXplRmxCZEhsamVYcDBSaTF2WVhWQmJHVkhOWGs1Um5CWWFEWllSemt6WW5ab2VsOXBjMVpERWhkYVJITklXa3BJUTBNNGVYbHhkSE5RWjNONVRqQkJXUm9pUVVaZk5rMUJUbFpuVFhSc01WcENlVzlwVGpWMFRFaElTV2RoWW1SWFUwUnRkdyIsImZjdiI6IjMiLCJlaSI6IlpEc0haSkhDQzh5eXF0c1Bnc3lOMEFZIiwicWMiOiJDaTEzYUdGMEozTWdkR2hsSUhkbFlYUm9aWElnYVc0Z2MyRnBiblFnY0dWMFpYSnpZblZ5WnlCeWRYTnphV0VRQUgxbk5nRV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGNvbGRlc3QgbW9udGggaW4gU3QuIFBldGVyc2J1cmcgUnVzc2lhPyIsImxrIjoiR2pGM2FHRjBJR2x6SUhSb1pTQmpiMnhrWlhOMElHMXZiblJvSUdsdUlITjBJSEJsZEdWeWMySjFjbWNnY25WemMybGgiLCJicyI6ImMtT3k0RElPejBnc1VjZ3NWaWpKU0ZWSXpzOUpTUzB1VWNqTnp5dkpVTWpNVXdndTBWTUlTQzFKTFNwT0tpMUtWd2dxTFM3T1RMU1hlTzdGNWNSbGk2d3pDYVN0SkRNM1ZTRV9UYUV5TmJGSW9TUmZJVDBmUk9Jd1l6TTdsekdYbmtkLU9kaFdoWlQ4MUdLRnpCS0Y5TlFTUEJiMzIzUHBjMmw1Rm1PWFJfRkRjbVpKcGIzRWFnMEJSZ0EiLCJpZCI6ImZjXzIifQ%3D%3D"
+        },
+        {
+            "question": "What is the best time of year to go to St. Petersburg Russia?",
+            "snippet": "The best time to visit St. Petersburg is from mid-June to September. Although it'expensive, St. Petersburg'near 24 hours of sunshine and White Nights celebrations during the summer months are not to be missed.",
+            "title": "Best Times to Visit St. Petersburg | U.S. News Travel",
+            "link": "https://travel.usnews.com/St_Petersburg_Russia/When_To_Visit/",
+            "displayed_link": "https://travel.usnews.com › When_To_Visit",
+            "thumbnail": "https://serpapi.com/searches/64073b63b7b1cc404678634c/images/b68477030c035906c3ee0648013b4105c9d0a443a02ed11d266fcd847a3b1de6.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wU2JrTm5XRU00VlUxUVJtWnBObGhDZEdGeGJtUk1Wbmd4ZUV0WExXMXplRmxCZEhsamVYcDBSaTF2WVhWQmJHVkhOWGs1Um5CWWFEWllSemt6WW5ab2VsOXBjMVpERWhkYVJITklXa3BJUTBNNGVYbHhkSE5RWjNONVRqQkJXUm9pUVVaZk5rMUJUbFpuVFhSc01WcENlVzlwVGpWMFRFaElTV2RoWW1SWFUwUnRkdyIsImZjdiI6IjMiLCJlaSI6IlpEc0haSkhDQzh5eXF0c1Bnc3lOMEFZIiwicWMiOiJDaTEzYUdGMEozTWdkR2hsSUhkbFlYUm9aWElnYVc0Z2MyRnBiblFnY0dWMFpYSnpZblZ5WnlCeWRYTnphV0VRQUgxbk5nRV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgdGltZSBvZiB5ZWFyIHRvIGdvIHRvIFN0LiBQZXRlcnNidXJnIFJ1c3NpYT8iLCJsayI6ImM1UFNUMG90TGxFb3ljeE5WY2hQVTZoTVRTeFNLTWxYU004SGtVQ0pndFNTMUtMaXBOS2lkSVdpMHVMaXpFUUEiLCJicyI6ImMtT3k0RElPejBnc1VjZ3NWaWpKU0ZWSXpzOUpTUzB1VWNqTnp5dkpVTWpNVXdndTBWTUlTQzFKTFNwT0tpMUtWd2dxTFM3T1RMU1hlTzdGNWNSbGk2d3pDYVN0SkRNM1ZTRV9UYUV5TmJGSW9TUmZJVDBmUk9Jd1l6TTdsekdYbmtkLU9kaFdoWlQ4MUdLRnpCS0Y5TlFTUEJiMzIzUHBjMmw1Rm1PWFJfRkRjbVpKcGIzRWFnMEJSZ0EiLCJpZCI6ImZjXzIifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wU2JrTm5XRU00VlUxUVJtWnBObGhDZEdGeGJtUk1Wbmd4ZUV0WExXMXplRmxCZEhsamVYcDBSaTF2WVhWQmJHVkhOWGs1Um5CWWFEWllSemt6WW5ab2VsOXBjMVpERWhkYVJITklXa3BJUTBNNGVYbHhkSE5RWjNONVRqQkJXUm9pUVVaZk5rMUJUbFpuVFhSc01WcENlVzlwVGpWMFRFaElTV2RoWW1SWFUwUnRkdyIsImZjdiI6IjMiLCJlaSI6IlpEc0haSkhDQzh5eXF0c1Bnc3lOMEFZIiwicWMiOiJDaTEzYUdGMEozTWdkR2hsSUhkbFlYUm9aWElnYVc0Z2MyRnBiblFnY0dWMFpYSnpZblZ5WnlCeWRYTnphV0VRQUgxbk5nRV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgdGltZSBvZiB5ZWFyIHRvIGdvIHRvIFN0LiBQZXRlcnNidXJnIFJ1c3NpYT8iLCJsayI6ImM1UFNUMG90TGxFb3ljeE5WY2hQVTZoTVRTeFNLTWxYU004SGtVQ0pndFNTMUtMaXBOS2lkSVdpMHVMaXpFUUEiLCJicyI6ImMtT3k0RElPejBnc1VjZ3NWaWpKU0ZWSXpzOUpTUzB1VWNqTnp5dkpVTWpNVXdndTBWTUlTQzFKTFNwT0tpMUtWd2dxTFM3T1RMU1hlTzdGNWNSbGk2d3pDYVN0SkRNM1ZTRV9UYUV5TmJGSW9TUmZJVDBmUk9Jd1l6TTdsekdYbmtkLU9kaFdoWlQ4MUdLRnpCS0Y5TlFTUEJiMzIzUHBjMmw1Rm1PWFJfRkRjbVpKcGIzRWFnMEJSZ0EiLCJpZCI6ImZjXzIifQ%3D%3D"
+        },
+        {
+            "question": "How cold does it get in St. Petersburg Russia?",
+            "snippet": "Winters (November to March) in Saint Petersburg are harsh. Average temperatures range between -3ºC (25ºF) and -9ºC (14ºF), but it has reached as low as -35ºC (-32ºF)!",
+            "title": "Weather in Saint Petersburg - Climate and best time to travel",
+            "link": "https://www.introducingsaintpetersburg.com/weather",
+            "displayed_link": "https://www.introducingsaintpetersburg.com › weather",
+            "thumbnail": "https://serpapi.com/searches/64073b63b7b1cc404678634c/images/b68477030c035906c3ee0648013b410504b523ced25d28e4409056c159178c69.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wU2JrTm5XRU00VlUxUVJtWnBObGhDZEdGeGJtUk1Wbmd4ZUV0WExXMXplRmxCZEhsamVYcDBSaTF2WVhWQmJHVkhOWGs1Um5CWWFEWllSemt6WW5ab2VsOXBjMVpERWhkYVJITklXa3BJUTBNNGVYbHhkSE5RWjNONVRqQkJXUm9pUVVaZk5rMUJUbFpuVFhSc01WcENlVzlwVGpWMFRFaElTV2RoWW1SWFUwUnRkdyIsImZjdiI6IjMiLCJlaSI6IlpEc0haSkhDQzh5eXF0c1Bnc3lOMEFZIiwicWMiOiJDaTEzYUdGMEozTWdkR2hsSUhkbFlYUm9aWElnYVc0Z2MyRnBiblFnY0dWMFpYSnpZblZ5WnlCeWRYTnphV0VRQUgxbk5nRV8iLCJxdWVzdGlvbiI6IkhvdyBjb2xkIGRvZXMgaXQgZ2V0IGluIFN0LiBQZXRlcnNidXJnIFJ1c3NpYT8iLCJsayI6IkdpeG9iM2NnWTI5c1pDQmtiMlZ6SUdsMElHZGxkQ0JwYmlCemRDQndaWFJsY25OaWRYSm5JSEoxYzNOcFlRIiwiYnMiOiJjLU95NERJT3owZ3NVY2dzVmlqSlNGVkl6czlKU1MwdVVjak56eXZKVU1qTVV3Z3UwVk1JU0MxSkxTcE9LaTFLVndncUxTN09UTFNYZU83RjVjUmxpNnd6Q2FTdEpETTNWU0VfVGFFeU5iRklvU1JmSVQwZlJPSXdZek03bHpHWG5rZC1PZGhXaFpUODFHS0Z6QktGOU5RU1BCYjMyM1BwYzJsNUZtT1hSX0ZEY21aSnBiM0VhZzBCUmdBIiwiaWQiOiJmY18yIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wU2JrTm5XRU00VlUxUVJtWnBObGhDZEdGeGJtUk1Wbmd4ZUV0WExXMXplRmxCZEhsamVYcDBSaTF2WVhWQmJHVkhOWGs1Um5CWWFEWllSemt6WW5ab2VsOXBjMVpERWhkYVJITklXa3BJUTBNNGVYbHhkSE5RWjNONVRqQkJXUm9pUVVaZk5rMUJUbFpuVFhSc01WcENlVzlwVGpWMFRFaElTV2RoWW1SWFUwUnRkdyIsImZjdiI6IjMiLCJlaSI6IlpEc0haSkhDQzh5eXF0c1Bnc3lOMEFZIiwicWMiOiJDaTEzYUdGMEozTWdkR2hsSUhkbFlYUm9aWElnYVc0Z2MyRnBiblFnY0dWMFpYSnpZblZ5WnlCeWRYTnphV0VRQUgxbk5nRV8iLCJxdWVzdGlvbiI6IkhvdyBjb2xkIGRvZXMgaXQgZ2V0IGluIFN0LiBQZXRlcnNidXJnIFJ1c3NpYT8iLCJsayI6IkdpeG9iM2NnWTI5c1pDQmtiMlZ6SUdsMElHZGxkQ0JwYmlCemRDQndaWFJsY25OaWRYSm5JSEoxYzNOcFlRIiwiYnMiOiJjLU95NERJT3owZ3NVY2dzVmlqSlNGVkl6czlKU1MwdVVjak56eXZKVU1qTVV3Z3UwVk1JU0MxSkxTcE9LaTFLVndncUxTN09UTFNYZU83RjVjUmxpNnd6Q2FTdEpETTNWU0VfVGFFeU5iRklvU1JmSVQwZlJPSXdZek03bHpHWG5rZC1PZGhXaFpUODFHS0Z6QktGOU5RU1BCYjMyM1BwYzJsNUZtT1hSX0ZEY21aSnBiM0VhZzBCUmdBIiwiaWQiOiJmY18yIn0%3D"
+        },
+        {
+            "question": "Is St. Petersburg Russia the coldest city?",
+            "snippet": "Petersburg is never really cold - at least by Russian standards - with temperatures rarely dropping much below -10 ºC even in the depths of winter. And, despite Dostoevsky'descriptions of the sweltering slums, summer temperatures higher than 30 ºC are almost unheard of.",
+            "title": "Seasons and weather guide St. Petersburg Russia",
+            "link": "http://www.saint-petersburg.com/weather/",
+            "displayed_link": "http://www.saint-petersburg.com › weather",
+            "thumbnail": "https://serpapi.com/searches/64073b63b7b1cc404678634c/images/b68477030c035906c3ee0648013b41052455a8510dd910a2de61fe40c56aa143.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wU2JrTm5XRU00VlUxUVJtWnBObGhDZEdGeGJtUk1Wbmd4ZUV0WExXMXplRmxCZEhsamVYcDBSaTF2WVhWQmJHVkhOWGs1Um5CWWFEWllSemt6WW5ab2VsOXBjMVpERWhkYVJITklXa3BJUTBNNGVYbHhkSE5RWjNONVRqQkJXUm9pUVVaZk5rMUJUbFpuVFhSc01WcENlVzlwVGpWMFRFaElTV2RoWW1SWFUwUnRkdyIsImZjdiI6IjMiLCJlaSI6IlpEc0haSkhDQzh5eXF0c1Bnc3lOMEFZIiwicWMiOiJDaTEzYUdGMEozTWdkR2hsSUhkbFlYUm9aWElnYVc0Z2MyRnBiblFnY0dWMFpYSnpZblZ5WnlCeWRYTnphV0VRQUgxbk5nRV8iLCJxdWVzdGlvbiI6IklzIFN0LiBQZXRlcnNidXJnIFJ1c3NpYSB0aGUgY29sZGVzdCBjaXR5PyIsImxrIjoiR2locGN5QnpkQ0J3WlhSbGNuTmlkWEpuSUhKMWMzTnBZU0IwYUdVZ1kyOXNaR1Z6ZENCamFYUjUiLCJicyI6ImMtT3k0RElPejBnc1VjZ3NWaWpKU0ZWSXpzOUpTUzB1VWNqTnp5dkpVTWpNVXdndTBWTUlTQzFKTFNwT0tpMUtWd2dxTFM3T1RMU1hlTzdGNWNSbGk2d3pDYVN0SkRNM1ZTRV9UYUV5TmJGSW9TUmZJVDBmUk9Jd1l6TTdsekdYbmtkLU9kaFdoWlQ4MUdLRnpCS0Y5TlFTUEJiMzIzUHBjMmw1Rm1PWFJfRkRjbVpKcGIzRWFnMEJSZ0EiLCJpZCI6ImZjXzIifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wU2JrTm5XRU00VlUxUVJtWnBObGhDZEdGeGJtUk1Wbmd4ZUV0WExXMXplRmxCZEhsamVYcDBSaTF2WVhWQmJHVkhOWGs1Um5CWWFEWllSemt6WW5ab2VsOXBjMVpERWhkYVJITklXa3BJUTBNNGVYbHhkSE5RWjNONVRqQkJXUm9pUVVaZk5rMUJUbFpuVFhSc01WcENlVzlwVGpWMFRFaElTV2RoWW1SWFUwUnRkdyIsImZjdiI6IjMiLCJlaSI6IlpEc0haSkhDQzh5eXF0c1Bnc3lOMEFZIiwicWMiOiJDaTEzYUdGMEozTWdkR2hsSUhkbFlYUm9aWElnYVc0Z2MyRnBiblFnY0dWMFpYSnpZblZ5WnlCeWRYTnphV0VRQUgxbk5nRV8iLCJxdWVzdGlvbiI6IklzIFN0LiBQZXRlcnNidXJnIFJ1c3NpYSB0aGUgY29sZGVzdCBjaXR5PyIsImxrIjoiR2locGN5QnpkQ0J3WlhSbGNuTmlkWEpuSUhKMWMzTnBZU0IwYUdVZ1kyOXNaR1Z6ZENCamFYUjUiLCJicyI6ImMtT3k0RElPejBnc1VjZ3NWaWpKU0ZWSXpzOUpTUzB1VWNqTnp5dkpVTWpNVXdndTBWTUlTQzFKTFNwT0tpMUtWd2dxTFM3T1RMU1hlTzdGNWNSbGk2d3pDYVN0SkRNM1ZTRV9UYUV5TmJGSW9TUmZJVDBmUk9Jd1l6TTdsekdYbmtkLU9kaFdoWlQ4MUdLRnpCS0Y5TlFTUEJiMzIzUHBjMmw1Rm1PWFJfRkRjbVpKcGIzRWFnMEJSZ0EiLCJpZCI6ImZjXzIifQ%3D%3D"
+        }
+    ],
+    "answer_box": {
+        "type": "weather_result",
+        "temperature": "23",
+        "unit": "Fahrenheit",
+        "precipitation": "2%",
+        "humidity": "70%",
+        "wind": "3 mph",
+        "location": "Weather",
+        "date": "Tuesday 4:00 PM",
+        "weather": "Partly cloudy",
+        "thumbnail": "https://serpapi.com/searches/64073b63b7b1cc404678634c/images/f8ac74e74f8f3b1ede406a051b03a35a07ed4a78449a4076.png",
+        "forecast": [
+            {
+                "day": "Tuesday",
+                "weather": "Scattered snow showers",
+                "temperature": {
+                    "high": "24",
+                    "low": "15"
+                },
+                "thumbnail": "https://serpapi.com/searches/64073b63b7b1cc404678634c/images/f8ac74e74f8f3b1e4a7f3e7ac6fb8b5540580238f213280d743cf33ca201464b.png"
+            },
+            {
+                "day": "Wednesday",
+                "weather": "Snow",
+                "temperature": {
+                    "high": "34",
+                    "low": "22"
+                },
+                "thumbnail": "https://serpapi.com/searches/64073b63b7b1cc404678634c/images/f8ac74e74f8f3b1e4a7f3e7ac6fb8b55faba04901495dc4a3e92325f446f277d.png"
+            },
+            {
+                "day": "Thursday",
+                "weather": "Snow showers",
+                "temperature": {
+                    "high": "25",
+                    "low": "6"
+                },
+                "thumbnail": "https://serpapi.com/searches/64073b63b7b1cc404678634c/images/f8ac74e74f8f3b1e4a7f3e7ac6fb8b555dbc505769ac7881761e6ec624019d46.png"
+            },
+            {
+                "day": "Friday",
+                "weather": "Partly cloudy",
+                "temperature": {
+                    "high": "28",
+                    "low": "14"
+                },
+                "thumbnail": "https://serpapi.com/searches/64073b63b7b1cc404678634c/images/f8ac74e74f8f3b1e4a7f3e7ac6fb8b55109042a7e1f04fb2123fddb550250821.png"
+            },
+            {
+                "day": "Saturday",
+                "weather": "Snow showers",
+                "temperature": {
+                    "high": "31",
+                    "low": "28"
+                },
+                "thumbnail": "https://serpapi.com/searches/64073b63b7b1cc404678634c/images/f8ac74e74f8f3b1e4a7f3e7ac6fb8b55d30afc48e0f52f06f00996311b95c6c2.png"
+            },
+            {
+                "day": "Sunday",
+                "weather": "Snow showers",
+                "temperature": {
+                    "high": "31",
+                    "low": "22"
+                },
+                "thumbnail": "https://serpapi.com/searches/64073b63b7b1cc404678634c/images/f8ac74e74f8f3b1e4a7f3e7ac6fb8b55a41bb8ba75c8597bc14ff70d7554418a.png"
+            },
+            {
+                "day": "Monday",
+                "weather": "Snow showers",
+                "temperature": {
+                    "high": "30",
+                    "low": "21"
+                },
+                "thumbnail": "https://serpapi.com/searches/64073b63b7b1cc404678634c/images/f8ac74e74f8f3b1e4a7f3e7ac6fb8b55342eaeb720b62e0e3b463b2efaf27616.png"
+            },
+            {
+                "day": "Tuesday",
+                "weather": "Snow showers",
+                "temperature": {
+                    "high": "31",
+                    "low": "22"
+                },
+                "thumbnail": "https://serpapi.com/searches/64073b63b7b1cc404678634c/images/f8ac74e74f8f3b1e4a7f3e7ac6fb8b5550f8ab5a04abe1e340beed29830c05e1.png"
+            }
+        ]
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Saint-Petersburg, Russia 14 day weather forecast",
+            "link": "https://www.timeanddate.com/weather/russia/saint-peterburg/ext",
+            "displayed_link": "https://www.timeanddate.com › ... › Saint-Petersburg",
+            "snippet": "2 Week Extended Forecast in Saint-Petersburg, Russia ; 31 / 19 °F · 32 / 22 °F · 35 / 25 °F ...",
+            "snippet_highlighted_words": [
+                "31 / 19 °F · 32 / 22 °F · 35 / 25 °F"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "timeanddate.com was first indexed by Google more than 10 years ago",
+                    "source_info_link": "https://www.timeanddate.com/weather/russia/saint-peterburg/ext",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/64073b63b7b1cc404678634c/images/69c6c014f4cb48a66cd77843a81c5050de15956611a13b6bdcc1d5fb9b22affb81436c8959e18fd9c03a49cefa04811c.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.timeanddate.com/weather/russia/saint-peterburg/ext&tbm=ilp&ilps=AB_Lh3rUu8tDy84uakVYsPA71hrjXqWh6g",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3rUu8tDy84uakVYsPA71hrjXqWh6g&q=About+https%3A%2F%2Fwww.timeanddate.com%2Fweather%2Frussia%2Fsaint-peterburg%2Fext",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:WK56PzaThRsJ:https://www.timeanddate.com/weather/russia/saint-peterburg/ext&cd=12&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?ucbcb=1&q=related:https://www.timeanddate.com/weather/russia/saint-peterburg/ext+what%27s+the+weather+in+saint+petersburg+russia"
+        },
+        {
+            "position": 2,
+            "title": "Saint petersburg, SPE 10-Day Weather Forecast | Weather.com",
+            "link": "https://weather.com/weather/tenday/l/Saint+Petersburg+Russia+RSXX0091:1:RS",
+            "displayed_link": "https://weather.com › weather › tenday › Saint+Peters...",
+            "snippet": "Cloudy with some light snow. High 33F. Winds SE at 10 to 20 mph. Chance of snow 80%. Snow accumulating 1 to 3 inches. Humidity75%. UV Index0 of 10.",
+            "snippet_highlighted_words": [
+                "Cloudy with some light snow. High 33F"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The Weather Channel is an American pay television channel owned by Weather Group, LLC, a subsidiary of Allen Media Group. The channel'headquarters are in Atlanta, Georgia.",
+                    "source_info_link": "https://weather.com/weather/tenday/l/Saint+Petersburg+Russia+RSXX0091:1:RS",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/64073b63b7b1cc404678634c/images/69c6c014f4cb48a66cd77843a81c50504a04f003df0198ba38adeec3ddaa5ca1cdcef3690b656f3513741b9522befe9d.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://weather.com/weather/tenday/l/Saint%2BPetersburg%2BRussia%2BRSXX0091:1:RS&tbm=ilp&ilps=AB_Lh3oN1paC91IxzG-tHytD211ARt6y9w",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3oN1paC91IxzG-tHytD211ARt6y9w&q=About+https%3A%2F%2Fweather.com%2Fweather%2Ftenday%2Fl%2FSaint%2BPetersburg%2BRussia%2BRSXX0091%3A1%3ARS",
+            "cached_page_link": "/search?ucbcb=1&q=related:https://weather.com/weather/tenday/l/Saint%2BPetersburg%2BRussia%2BRSXX0091:1:RS+what%27s+the+weather+in+saint+petersburg+russia"
+        },
+        {
+            "position": 3,
+            "title": "Saint Petersburg, Saint Petersburg, Russia Weather Forecast",
+            "link": "https://www.accuweather.com/en/ru/saint-petersburg/295212/weather-forecast/295212",
+            "displayed_link": "https://www.accuweather.com › saint-petersburg › wea...",
+            "snippet": "Saint Petersburg, Saint Petersburg, Russia Weather Forecast, with current conditions, wind, air quality, and what to expect for the next 3 days.",
+            "snippet_highlighted_words": [
+                "conditions, wind, air quality, and"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "AccuWeather Inc. is an American media company that provides commercial weather forecasting services worldwide.\nAccuWeather was founded in 1962 by Joel N. Myers, then a Pennsylvania State University graduate student working on a master'degree in meteorology. His first customer was a gas company in Pennsylvania.",
+                    "source_info_link": "https://www.accuweather.com/en/ru/saint-petersburg/295212/weather-forecast/295212",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/64073b63b7b1cc404678634c/images/69c6c014f4cb48a66cd77843a81c5050e3488c669bbf2cfc68876d5e20b788a32f682c3998b8b2e1e41c57b6660faaf5.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.accuweather.com/en/ru/saint-petersburg/295212/weather-forecast/295212&tbm=ilp&ilps=AB_Lh3p30sVkVFcaH-0bm-Y4YxFHS0_kKQ",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3p30sVkVFcaH-0bm-Y4YxFHS0_kKQ&q=About+https%3A%2F%2Fwww.accuweather.com%2Fen%2Fru%2Fsaint-petersburg%2F295212%2Fweather-forecast%2F295212",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:T1Q3fnfLn9kJ:https://www.accuweather.com/en/ru/saint-petersburg/295212/weather-forecast/295212&cd=14&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 4,
+            "title": "Climate in Saint Petersburg - Russia - Weather Spark",
+            "link": "https://weatherspark.com/y/96729/Average-Weather-in-Saint-Petersburg-Russia-Year-Round",
+            "displayed_link": "https://weatherspark.com › Russia › St.-Petersburg",
+            "snippet": "In Saint Petersburg, the summers are comfortable and partly cloudy and the winters are long, freezing, snowy, and overcast. Over the course of the year, ...",
+            "snippet_highlighted_words": [
+                "summers are comfortable and partly cloudy"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "weatherspark.com was first indexed by Google more than 10 years ago",
+                    "source_info_link": "https://weatherspark.com/y/96729/Average-Weather-in-Saint-Petersburg-Russia-Year-Round",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/64073b63b7b1cc404678634c/images/69c6c014f4cb48a66cd77843a81c50503ad12937c9bc62ab5d13a491d836c72ceaabe60c21f35b9d844aa1cced2cc38b.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://weatherspark.com/y/96729/Average-Weather-in-Saint-Petersburg-Russia-Year-Round&tbm=ilp&ilps=AB_Lh3rxvyy7XplinyYHl6dglAgfivYGag",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3rxvyy7XplinyYHl6dglAgfivYGag&q=About+https%3A%2F%2Fweatherspark.com%2Fy%2F96729%2FAverage-Weather-in-Saint-Petersburg-Russia-Year-Round",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Hd7FqEqtZqYJ:https://weatherspark.com/y/96729/Average-Weather-in-Saint-Petersburg-Russia-Year-Round&cd=15&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 5,
+            "title": "Saint Petersburg, Russia - Weather forecast & Hourly ...",
+            "link": "https://www.weather-atlas.com/en/russia/saint-petersburg",
+            "displayed_link": "https://www.weather-atlas.com › Countries › Russia",
+            "snippet": "Today, in Saint Petersburg, it will be cloudy in the morning. However, the sky will clear during the afternoon, and sunny weather is forecasted.",
+            "snippet_highlighted_words": [
+                "will be cloudy in the morning"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "weather-atlas.com was first indexed by Google more than 10 years ago",
+                    "source_info_link": "https://www.weather-atlas.com/en/russia/saint-petersburg",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/64073b63b7b1cc404678634c/images/69c6c014f4cb48a66cd77843a81c5050ec97584e306b03c7f637247962da81afee89c52673c61d05cb97161762d77beb.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.weather-atlas.com/en/russia/saint-petersburg&tbm=ilp&ilps=AB_Lh3ozsyBcHsbrE83jDdSEA2coL1JBTw",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3ozsyBcHsbrE83jDdSEA2coL1JBTw&q=About+https%3A%2F%2Fwww.weather-atlas.com%2Fen%2Frussia%2Fsaint-petersburg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:wrdyPFXppGgJ:https://www.weather-atlas.com/en/russia/saint-petersburg&cd=16&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 6,
+            "title": "St Petersburg (Russia) weather - Met Office",
+            "link": "https://www.metoffice.gov.uk/weather/forecast/udtt1kxg3",
+            "displayed_link": "https://www.metoffice.gov.uk › weather › forecast",
+            "snippet": "Eight day forecast for St Petersburg ; 88%, 88%, 87%, 87% ; -, -, -, - ...",
+            "snippet_highlighted_words": [
+                "forecast",
+                "St Petersburg"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The Meteorological Office, abbreviated as the Met Office, is the United Kingdom'national weather service.",
+                    "source_info_link": "https://www.metoffice.gov.uk/weather/forecast/udtt1kxg3",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/64073b63b7b1cc404678634c/images/69c6c014f4cb48a66cd77843a81c5050b8c4d61b6b76f8dad318a25700bd42f42443aea94fdc794cc48fa76815ec3df3.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.metoffice.gov.uk/weather/forecast/udtt1kxg3&tbm=ilp&ilps=AB_Lh3rEn3O0XhsNrb7HANZrAlAwIUUJ4g",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3rEn3O0XhsNrb7HANZrAlAwIUUJ4g&q=About+https%3A%2F%2Fwww.metoffice.gov.uk%2Fweather%2Fforecast%2Fudtt1kxg3",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:tVr9oUHv1xYJ:https://www.metoffice.gov.uk/weather/forecast/udtt1kxg3&cd=17&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 7,
+            "title": "St. Petersburg, Russia 6 Day/Night Weather - WeatherWX.com",
+            "link": "https://www.weatherwx.com/forecasts/ru/saint+petersburg.html",
+            "displayed_link": "https://www.weatherwx.com › saint+petersburg",
+            "snippet": "Sunny Friday, temperatures as high as -2°C29°F low temperature around -15°C5°F wind out of the SSW 17 km/h10 mph. Barometric pressure 1005 mb29.68 in, ...",
+            "snippet_highlighted_words": [
+                "Sunny Friday, temperatures as high as -2°C29°F low temperature around -15°C5°F"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "feels_like_°f": 12,
+                        "barometer_in": 29.38
+                    },
+                    "extensions": [
+                        "Feels Like: 12°F",
+                        "Barometer: 29.38 in"
+                    ]
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "weatherwx.com was first indexed by Google more than 10 years ago",
+                    "source_info_link": "https://www.weatherwx.com/forecasts/ru/saint+petersburg.html",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/64073b63b7b1cc404678634c/images/69c6c014f4cb48a66cd77843a81c5050a8dc7115c11080b2af84aebe8570a1ecbf47b9ab6b64c0ce228fdb117dc4e55a.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.weatherwx.com/forecasts/ru/saint%2Bpetersburg.html&tbm=ilp&ilps=AB_Lh3rFZw3icoE9cHB4_gWlUiCXuW69nA",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3rFZw3icoE9cHB4_gWlUiCXuW69nA&q=About+https%3A%2F%2Fwww.weatherwx.com%2Fforecasts%2Fru%2Fsaint%2Bpetersburg.html",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:HFwYI0awTGIJ:https://www.weatherwx.com/forecasts/ru/saint%2Bpetersburg.html&cd=18&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 8,
+            "title": "Weather Forecast Saint Petersburg - La Chaîne Météo",
+            "link": "https://www.weathercrave.com/weather-forecast-russia/city-405/weather-forecast-saint-petersburg-today",
+            "displayed_link": "https://www.weathercrave.com › city-405 › weather-f...",
+            "snippet": "This afternoon in Saint Petersburg, Clear periods developing. No precipitation. Temperatures will vary between -9 and -5°C. The reliability of the situation is ...",
+            "snippet_highlighted_words": [
+                "Temperatures will vary between -9 and -5°C"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "weathercrave.com was first indexed by Google more than 10 years ago",
+                    "source_info_link": "https://www.weathercrave.com/weather-forecast-russia/city-405/weather-forecast-saint-petersburg-today",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/64073b63b7b1cc404678634c/images/69c6c014f4cb48a66cd77843a81c5050044c18fb5d8202b0ce20555fc121c01882501e41ae4c1c28b91ebc34f07cb308.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.weathercrave.com/weather-forecast-russia/city-405/weather-forecast-saint-petersburg-today&tbm=ilp&ilps=AB_Lh3rpXkNfW0_abIGVGDGhOc1LsaUQDQ",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3rpXkNfW0_abIGVGDGhOc1LsaUQDQ&q=About+https%3A%2F%2Fwww.weathercrave.com%2Fweather-forecast-russia%2Fcity-405%2Fweather-forecast-saint-petersburg-today",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:vn13P_TCqb4J:https://www.weathercrave.com/weather-forecast-russia/city-405/weather-forecast-saint-petersburg-today&cd=19&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 9,
+            "title": "Saint Petersburg, Russia Conditionsstar_ratehome",
+            "link": "https://www.wunderground.com/weather/ru/saint-petersburg",
+            "displayed_link": "https://www.wunderground.com › weather › saint-pete...",
+            "snippet": "Saint Petersburg, Russia Conditionsstar_ratehome ; Temperature. High. 31 · F · 31 ; Rain/Snow Depth. Precipitation. 0.02 · in. 0 ; Temperature. High. 32 · F · 30 ...",
+            "snippet_highlighted_words": [
+                "High. 31 · F · 31 ; Rain/Snow Depth. Precipitation"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Weather Underground is a commercial weather service providing real-time weather information over the Internet. Weather Underground provides weather reports for most major cities around the world on its Web site, as well as local weather reports for newspapers and third-party sites.",
+                    "source_info_link": "https://www.wunderground.com/weather/ru/saint-petersburg",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/64073b63b7b1cc404678634c/images/69c6c014f4cb48a66cd77843a81c505016e71181ea4fc37d91bad7b1e3c782afd5b58ecdee15aa0c7539a9fb8e0c692c.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.wunderground.com/weather/ru/saint-petersburg&tbm=ilp&ilps=AB_Lh3pk46g-vau8ok1aLHFveltSsj-zPA",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3pk46g-vau8ok1aLHFveltSsj-zPA&q=About+https%3A%2F%2Fwww.wunderground.com%2Fweather%2Fru%2Fsaint-petersburg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:33QYdmKvuVoJ:https://www.wunderground.com/weather/ru/saint-petersburg&cd=20&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 10,
+            "title": "Saint Petersburg, RU - Fourteen Day Weather",
+            "link": "https://www.theweathernetwork.com/ru/14-day-weather-trend/sankt-peterburg/saint-petersburg",
+            "displayed_link": "https://www.theweathernetwork.com › sankt-peterburg",
+            "snippet": "Saint Petersburg, RU ; Wed. Mar 08. -1 · -5 · POP 90% ; Thu. Mar 09. -5 · -16 · POP 60% ; Fri. Mar 10. -4 · -9 · POP 20%.",
+            "snippet_highlighted_words": [
+                "Saint Petersburg"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "The Weather Network is a Canadian English-language weather information specialty channel available in Canada, the United States and the United Kingdom. It delivers weather information on television, digital platforms and TV apps.",
+                    "source_info_link": "https://www.theweathernetwork.com/ru/14-day-weather-trend/sankt-peterburg/saint-petersburg",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/64073b63b7b1cc404678634c/images/69c6c014f4cb48a66cd77843a81c5050ab3f8f7abe479bf512b63fa6a3872138ef4734fb9d097eb76620511a870671b9.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.theweathernetwork.com/ru/14-day-weather-trend/sankt-peterburg/saint-petersburg&tbm=ilp&ilps=AB_Lh3otxb7htQNjF-6USCj8XCcK2K4q6A",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3otxb7htQNjF-6USCj8XCcK2K4q6A&q=About+https%3A%2F%2Fwww.theweathernetwork.com%2Fru%2F14-day-weather-trend%2Fsankt-peterburg%2Fsaint-petersburg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:IMKL_XY47jEJ:https://www.theweathernetwork.com/ru/14-day-weather-trend/sankt-peterburg/saint-petersburg&cd=21&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?ucbcb=1&q=related:https://www.theweathernetwork.com/ru/14-day-weather-trend/sankt-peterburg/saint-petersburg+what%27s+the+weather+in+saint+petersburg+russia"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "weather saint petersburg, russia",
+            "link": "https://www.google.com/search?ucbcb=1&q=weather+saint+petersburg,+russia&sa=X&ved=2ahUKEwiRhPbP9cn9AhVMmWoFHQJmA2oQ1QJ6BAg4EAE"
+        },
+        {
+            "query": "st petersburg, russia weather year round",
+            "link": "https://www.google.com/search?ucbcb=1&q=st+petersburg,+russia+weather+year+round&sa=X&ved=2ahUKEwiRhPbP9cn9AhVMmWoFHQJmA2oQ1QJ6BAg3EAE"
+        },
+        {
+            "query": "st petersburg, russia weather by month",
+            "link": "https://www.google.com/search?ucbcb=1&q=st+petersburg,+russia+weather+by+month&sa=X&ved=2ahUKEwiRhPbP9cn9AhVMmWoFHQJmA2oQ1QJ6BAg1EAE"
+        },
+        {
+            "query": "weather in saint petersburg 10 days",
+            "link": "https://www.google.com/search?ucbcb=1&q=Weather+in+saint+petersburg+10+days&sa=X&ved=2ahUKEwiRhPbP9cn9AhVMmWoFHQJmA2oQ1QJ6BAg0EAE"
+        },
+        {
+            "query": "st petersburg weather 14 days",
+            "link": "https://www.google.com/search?ucbcb=1&q=St+petersburg+weather+14+days&sa=X&ved=2ahUKEwiRhPbP9cn9AhVMmWoFHQJmA2oQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "weather saint petersburg yandex",
+            "link": "https://www.google.com/search?ucbcb=1&q=Weather+saint+petersburg+YANDEX&sa=X&ved=2ahUKEwiRhPbP9cn9AhVMmWoFHQJmA2oQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "moscow, russia weather",
+            "link": "https://www.google.com/search?ucbcb=1&q=Moscow,+russia+weather&sa=X&ved=2ahUKEwiRhPbP9cn9AhVMmWoFHQJmA2oQ1QJ6BAgvEAE"
+        },
+        {
+            "query": "st petersburg, russia time and weather",
+            "link": "https://www.google.com/search?ucbcb=1&q=St+petersburg,+russia+Time+and+weather&sa=X&ved=2ahUKEwiRhPbP9cn9AhVMmWoFHQJmA2oQ1QJ6BAgtEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=what%27s+the+weather+in+saint+petersburg+russia&ucbcb=1&ei=ZDsHZJHCC8yyqtsPgsyN0AY&start=10&sa=N&ved=2ahUKEwiRhPbP9cn9AhVMmWoFHQJmA2oQ8NMDegQIBxAW",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=what%27s+the+weather+in+saint+petersburg+russia&ucbcb=1&ei=ZDsHZJHCC8yyqtsPgsyN0AY&start=10&sa=N&ved=2ahUKEwiRhPbP9cn9AhVMmWoFHQJmA2oQ8tMDegQIBxAE",
+            "3": "https://www.google.com/search?q=what%27s+the+weather+in+saint+petersburg+russia&ucbcb=1&ei=ZDsHZJHCC8yyqtsPgsyN0AY&start=20&sa=N&ved=2ahUKEwiRhPbP9cn9AhVMmWoFHQJmA2oQ8tMDegQIBxAG",
+            "4": "https://www.google.com/search?q=what%27s+the+weather+in+saint+petersburg+russia&ucbcb=1&ei=ZDsHZJHCC8yyqtsPgsyN0AY&start=30&sa=N&ved=2ahUKEwiRhPbP9cn9AhVMmWoFHQJmA2oQ8tMDegQIBxAI",
+            "5": "https://www.google.com/search?q=what%27s+the+weather+in+saint+petersburg+russia&ucbcb=1&ei=ZDsHZJHCC8yyqtsPgsyN0AY&start=40&sa=N&ved=2ahUKEwiRhPbP9cn9AhVMmWoFHQJmA2oQ8tMDegQIBxAK",
+            "6": "https://www.google.com/search?q=what%27s+the+weather+in+saint+petersburg+russia&ucbcb=1&ei=ZDsHZJHCC8yyqtsPgsyN0AY&start=50&sa=N&ved=2ahUKEwiRhPbP9cn9AhVMmWoFHQJmA2oQ8tMDegQIBxAM",
+            "7": "https://www.google.com/search?q=what%27s+the+weather+in+saint+petersburg+russia&ucbcb=1&ei=ZDsHZJHCC8yyqtsPgsyN0AY&start=60&sa=N&ved=2ahUKEwiRhPbP9cn9AhVMmWoFHQJmA2oQ8tMDegQIBxAO",
+            "8": "https://www.google.com/search?q=what%27s+the+weather+in+saint+petersburg+russia&ucbcb=1&ei=ZDsHZJHCC8yyqtsPgsyN0AY&start=70&sa=N&ved=2ahUKEwiRhPbP9cn9AhVMmWoFHQJmA2oQ8tMDegQIBxAQ",
+            "9": "https://www.google.com/search?q=what%27s+the+weather+in+saint+petersburg+russia&ucbcb=1&ei=ZDsHZJHCC8yyqtsPgsyN0AY&start=80&sa=N&ved=2ahUKEwiRhPbP9cn9AhVMmWoFHQJmA2oQ8tMDegQIBxAS",
+            "10": "https://www.google.com/search?q=what%27s+the+weather+in+saint+petersburg+russia&ucbcb=1&ei=ZDsHZJHCC8yyqtsPgsyN0AY&start=90&sa=N&ved=2ahUKEwiRhPbP9cn9AhVMmWoFHQJmA2oQ8tMDegQIBxAU"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&q=what%27s+the+weather+in+saint+petersburg+russia&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&q=what%27s+the+weather+in+saint+petersburg+russia&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&q=what%27s+the+weather+in+saint+petersburg+russia&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&q=what%27s+the+weather+in+saint+petersburg+russia&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&q=what%27s+the+weather+in+saint+petersburg+russia&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&q=what%27s+the+weather+in+saint+petersburg+russia&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&q=what%27s+the+weather+in+saint+petersburg+russia&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&q=what%27s+the+weather+in+saint+petersburg+russia&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&q=what%27s+the+weather+in+saint+petersburg+russia&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&q=what%27s+the+weather+in+saint+petersburg+russia&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en&q=what%27s+the+weather+in+saint+petersburg+russia&start=90"
+        }
+    }
+}

@@ -103,12 +103,36 @@ async function sendUserMessage(msg) {
     var history = $('#messages').text();
     $('#msg_input').val('');
     showUserMessage(msg);
-    history += 'User: ' + msg + '\n';
-    const botReply = await getBotMessage(history);
+    let botReply = await getBotMessage(history +  'User: ' + msg + '\n');
+    let txtBotReply = botReply.answer.choices[0].text;
     console.log(botReply);
-    history += 'Sally: ' + botReply.answer.choices[0].text + '\n';
-    showBotMessage(botReply.answer.choices[0].text);
+
+    // If can't answer, find it on google
+    if (txtBotReply.includes("don't know")) {
+        const info = await getInfoFromGoogle(msg);
+        const txtInfo = JSON.stringify(info.answer);
+        console.log(txtInfo);
+        msg = msg + "." + txtInfo + "." + msg;
+        botReply = await getBotMessage(history +  'User: ' + msg + '\n');
+        txtBotReply = botReply.answer.choices[0].text;
+    }
+
+    history += 'User: ' + msg + '\n';
+    history += 'Sally: ' + txtBotReply + '\n';
+    showBotMessage(txtBotReply);
     $('#messages').text(history);
+}
+
+// Get information from google
+async function getInfoFromGoogle(input) {
+    const response = await fetch('/googlesearch', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/x-www-form-urlencoded',
+        },
+        body: 'q='+input
+    })
+    return response.json()
 }
 
 // Get bot reply
